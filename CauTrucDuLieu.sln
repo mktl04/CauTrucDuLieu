@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanhSachLienKetDon", "DanhSachLienKetDon\DanhSachLienKetDon.csproj", "{2C156AE4-F2DD-455B-B3C4-3E7AEE291E95}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2568E583-EE82-4277-805F-38D448C29180}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap2", "BaiTap2\BaiTap2.csproj", "{8FBBD6FE-F9D4-4CE5-8BD6-4929E54988DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{2C156AE4-F2DD-455B-B3C4-3E7AEE291E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C156AE4-F2DD-455B-B3C4-3E7AEE291E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C156AE4-F2DD-455B-B3C4-3E7AEE291E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBBD6FE-F9D4-4CE5-8BD6-4929E54988DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBBD6FE-F9D4-4CE5-8BD6-4929E54988DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBBD6FE-F9D4-4CE5-8BD6-4929E54988DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBBD6FE-F9D4-4CE5-8BD6-4929E54988DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
