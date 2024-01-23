@@ -78,6 +78,7 @@ namespace NganXep
                 Console.Write(s.Pop());
             }
             Console.ReadLine();
+
         }
     }
 }
